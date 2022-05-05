@@ -16,7 +16,7 @@
       "id": 3,
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
-      "price": 5.99
+      "price": "5.99"
     },
     {
       "id": 4,
@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Tiger",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_pdFIdTYkJ8Z3VmXAr5KlRJ9sNY_03xINPtVYC2_FnmT5B-oupl1hA-pPcyNCK53PEwk&usqp=CAU",
+      "price": "20.00",
+      "id": 8
     }
   ]
 }
